@@ -1,1 +1,1 @@
-# Servlet-JSP-syou
+# スッキリわかるServlet-JSP-8syou
